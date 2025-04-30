@@ -1,23 +1,23 @@
 # VoteRMI
 
 ## Project Structure
-Vote
-├── src
-│   ├── gui
-│   │   ├── VoteGUI.java
-│   │   └── VoteWindow.java
-│   └── vote
-│       ├── VoteServer.java
-│       ├── VoteServerInterface.java
-│       ├── VoteServerImpl.java
-│       ├── VoteClient.java
-│       ├── VoteClientInterface.java
-│       └── VoteClientImpl.java
-├── tests
-├── classes
-├── compile.bat
-├── run_clients_and_server.bat
-└── run_gui_with_server.bat
+Vote  
+├── src  
+│   ├── gui  
+│   │   ├── VoteGUI.java  
+│   │   └── VoteWindow.java  
+│   └── vote  
+│       ├── VoteServer.java  
+│       ├── VoteServerInterface.java  
+│       ├── VoteServerImpl.java  
+│       ├── VoteClient.java  
+│       ├── VoteClientInterface.java  
+│       └── VoteClientImpl.java  
+├── tests  
+├── classes  
+├── compile.bat  
+├── run_clients_and_server.bat  
+└── run_gui_with_server.bat  
 
 - src: Contains the source code for the project.
 	- gui: Package containing GUI-related classes.
